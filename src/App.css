@@ -1,0 +1,100 @@
+.hero-section {
+    background-image: url('https://www.muet.edu.pk/sites/default/files/images/2024-12/muet-alumni-1_0.jpeg');
+    height: 80vh;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 75%;
+    flex-direction: column;
+    color: whitesmoke;
+    opacity: 70%;
+}
+.footer{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    color: white;
+    font-size: large;
+}
+.masterFooter{
+    background-color: rgb(71, 71, 153);
+
+}
+.myCards{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    position: relative;
+    bottom: 40px;
+}
+i{
+    font-size: larger;
+    text-align: center;
+}
+.aboutCards{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 70px;
+}
+.card-img-top{
+    width: 400px;
+    height: 300px;
+}
+.celebrationComponent{
+    display: flex;
+    flex-direction: row;
+    padding-left: 140px;
+    background-color: rgb(0, 0, 90);
+    color: white;
+    font-size: small;
+}
+.iframe{
+    display: flex;
+    flex-direction: column;
+}
+.anchors{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.navs{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+    padding-left: 40px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.mehranInfo{
+    display: flex;
+    flex-direction: row;
+    padding-left: 40px;
+    color: white;
+}
+.logPic{
+    border-radius: 50%;
+}
+.logPic:hover{
+    cursor: pointer;
+}
+.uniName{
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    margin-left:70px;
+}
+.hi{
+    display: flex;
+    flex-direction: column;
+}
