@@ -33,7 +33,7 @@ const Footer = () => {
       </div>
       <div className="footer">
         <footer>
-          <p>Copy Right | All Rights Deserved | Made with <i className="fa-solid fa-heart-pulse bg-body-red"></i> | <a href="https://www.facebook.com/share/16VjmEnnQd/"><i className="fa-brands fa-facebook"></i></a>         | <a href="https://www.instagram.com/muet_official_confess?igsh=cmJ0bXFqYWw2ZW10"><i className="fa-brands fa-instagram"></i></a> </p>
+          <p>&Copy Right {new Date().getFullYear()} | All Rights Deserved | Made with <i className="fa-solid fa-heart-pulse bg-body-red"></i> | <a href="https://www.facebook.com/share/16VjmEnnQd/"><i className="fa-brands fa-facebook"></i></a>         | <a href="https://www.instagram.com/muet_official_confess?igsh=cmJ0bXFqYWw2ZW10"><i className="fa-brands fa-instagram"></i></a> </p>
         </footer></div>
         <div className="anchors">
       </div>
